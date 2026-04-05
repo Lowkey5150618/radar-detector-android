@@ -1,2 +1,1 @@
-# radar-detector-android
-Real-time law enforcement radar detector for Android
+# README.md content goes here
